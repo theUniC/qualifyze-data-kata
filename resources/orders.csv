@@ -1,0 +1,12 @@
+﻿order_id;date;company_id;company_name;audit_id;audit_type;contact_data;salesowners
+recvybnoklfRwM3l2;29.01.22;1234;Pharmaceuticals ABC;recfojfQFzjO85U4x;GMP;"[{ ""auditor_name"":""Curtis"", ""auditor_surname"":""Jackson"", ""city"":""Chicago"", ""cp"": ""12345""}]";Leonard Cohen, Luke Skywalker, Ammy Winehouse
+recue31ktsWkibFFU;21.02.22;12345;Labs XZ;reciTDPV1s0yILvKH;API;"[{ ""auditor_name"":""Maria"", ""auditor_surname"":""Theresa"", ""city"":""Calcuta""}]";Luke Skywalker, David Goliat, Leon Leonov
+receUKRHFJzUjdhax;03.04.22;1234;Pharmaceuticals ABC S.A.;reciTDPV1s0yILvKL;API;"[{ ""auditor_name"":""Para"", ""auditor_surname"":""Cetamol"", ""city"":""Frankfurt am Oder"", ""cp"": 3934}]";Luke Skywalker
+recs6E4adVE9Y8Gnv;14.07.21;123456;Generics II;recfojfQFzjO85U4x;GMP;;David Goliat, Leonard Cohen
+recx3lVSdBQNSRgak;23.10.22;1234567;Qualifyzelabs AB;recFojfQFzfO85344;GMP;;Chris Pratt, David Henderson, Marianov Merschik, Leon Leonov
+recvnVQmpyupN1kP7;15.05.22;12345678;Pharmaceuticals    ABC;recznFtdCtIadAlQD;GMP;"[{ ""auditor_name"":""John"", ""auditor_surname"":""Krasinski"", ""city"":""New York"", ""cp"": ""1203""}]";Leonard Cohen, David Henderson
+recCMpPuOJmIAgURp;31.12.22;1523;Laboratories Superpharma GmbH;recqPBoOKZTm4XxpE;APP;;Markus Söder, Ammy Winehouse
+rec2tj69kWh24dhpG;01.04.22;1928;Generics II SA;recmIznU06MRfcSvs;APP;"[{ ""auditor_name"":""Jennifer"", ""auditor_surname"":""Lopez"", ""city"":""Esplugues de Llobregat""}]";David Henderson, Leonard Cohen, Leon Leonov
+recKHkloeIZFvQQZZ;04.09.22;214;Boompharma;recQpKX9qUNQDHmc5;GMP;"{ ""auditor_name"":""Liav"", ""auditor_surname"": ""Ichenbaum"", ""city"":""Tel Aviv""}";Yuri Gagarin, David Goliat, David Henderson
+recp19UJ0N5Gxk8vl;07.11.22;736612;BCN Therapeutics;recfojfQFzjO85U4x;GMP;"[{ ""auditor_name"":""Curtis"", ""auditor_surname"":""Jackson"", ""city"":""Chicago"", ""cp"": ""12345""}]";Ammy Winehouse, Marie Curie, Chris pratt
+recZaUhrgDnkf8jik;09.07.22;9372;Labs GmbH;recmIznU06MRfcSvs;APP;"[{ ""auditor_name"":""Anthony"", ""auditor_surname"":""Pap"", ""city"":""Barcelona"", ""cp"": 8023}]";Marianov Merschick, Vladimir Chukov, Luke Skywalker

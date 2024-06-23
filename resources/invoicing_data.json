@@ -1,0 +1,90 @@
+{
+  "data": {
+    "invoices": [
+      {
+        "id": "1",
+        "orderId": "recvybnoklfRwM3l2",
+        "companyId": "1234",
+        "grossValue": "324222",
+        "vat": "0"
+      },
+      {
+        "id": "2",
+        "orderId": "recue31ktsWkibFFU",
+        "companyId": "12345",
+        "grossValue": "193498",
+        "vat": "19"
+      },
+      {
+        "id": "3",
+        "orderId": "receUKRHFJzUjdhax",
+        "companyId": "1234",
+        "grossValue": "345498",
+        "vat": "21"
+      },
+      {
+        "id": "4",
+        "orderId": "recs6E4adVE9Y8Gnv",
+        "companyId": "123456",
+        "grossValue": "245412",
+        "vat": "34"
+      },
+      {
+        "id": "5",
+        "orderId": "recx3lVSdBQNSRgak",
+        "companyId": "1234567",
+        "grossValue": "145467",
+        "vat": "0"
+      },
+      {
+        "id": "6",
+        "orderId": "recvnVQmpyupN1kP7",
+        "companyId": "12345678",
+        "grossValue": "581530",
+        "vat": "19"
+      },
+      {
+        "id": "7",
+        "orderId": "recCMpPuOJmIAgURp",
+        "companyId": "1523",
+        "grossValue": "45100",
+        "vat": "19"
+      },
+      {
+        "id": "8",
+        "orderId": "rec2tj69kWh24dhpG",
+        "companyId": "1928",
+        "grossValue": "565210",
+        "vat": "21"
+      },
+      {
+        "id": "9",
+        "orderId": "recKHkloeIZFvQQZZ",
+        "companyId": "214",
+        "grossValue": "345310",
+        "vat": "34"
+      },
+      {
+        "id": "10",
+        "orderId": "recKHkloeIZFvQQZZ",
+        "companyId": "214",
+        "grossValue": "345310",
+        "vat": "34"
+      },
+      {
+        "id": "11",
+        "orderId": "recp19UJ0N5Gxk8vl",
+        "companyId": "736612",
+        "grossValue": "341315",
+        "vat": "21"
+      },
+      {
+        "id": "12",
+        "orderId": "recZaUhrgDnkf8jik",
+        "companyId": "9372",
+        "grossValue": "291315",
+        "vat": "0"
+      }
+    ]
+  }
+}

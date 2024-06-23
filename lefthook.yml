@@ -1,0 +1,17 @@
+pre-commit:
+  parallel: true
+  commands:
+    poetry-check:
+      glob: "{poetry.lock,pyproject.toml}"
+      run: poetry check
+    poetry-lock:
+      glob: "{poetry.lock}"
+      run: poetry lock --check
+    unittest:
+      run: poetry run python -m unittest discover -s tests -t .
+    mypy:
+      run: poetry run mypy --show-traceback
+    flake8:
+      run: poetry run flake8
+    black:
+      run: poetry run black dataoffice_connected_car_etl tests --check
