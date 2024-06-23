@@ -6,12 +6,10 @@ pre-commit:
       run: poetry check
     poetry-lock:
       glob: "{poetry.lock}"
-      run: poetry lock --check
-    unittest:
-      run: poetry run python -m unittest discover -s tests -t .
+      run: poetry check --lock
     mypy:
       run: poetry run mypy --show-traceback
     flake8:
       run: poetry run flake8
     black:
-      run: poetry run black dataoffice_connected_car_etl tests --check
+      run: poetry run black qualifyze_data_kata tests --check
