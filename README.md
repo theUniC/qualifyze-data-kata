@@ -24,8 +24,10 @@ Provide a DF (df_1) containing the following columns:
 
 Provide a DF (df_2) containing the following columns:
 
-| order_id          | The order_id field must contain the unique identifier of the order. |
-| auditor_full_name | The field for auditor_address should adhere to the following information and format: "city name, postal code". In the event that the city name is not available, the placeholder "Unknown" should be used. Similarly, if the postal code is not known, the placeholder "UNK00" should be used. |
+| Column          | Description                                                                                                                                                                                                                                                                                    |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| order_id        | The order_id field must contain the unique identifier of the order.                                                                                                                                                                                                                            |
+| auditor_address | The field for auditor_address should adhere to the following information and format: "city name, postal code". In the event that the city name is not available, the placeholder "Unknown" should be used. Similarly, if the postal code is not known, the placeholder "UNK00" should be used. |
 
 ## Kata 4
 
